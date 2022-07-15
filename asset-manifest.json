@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thomas-the-book-search-engine/static/css/main.073c9b0a.css",
+    "main.js": "/thomas-the-book-search-engine/static/js/main.2385cc8f.js",
+    "static/js/787.101a4060.chunk.js": "/thomas-the-book-search-engine/static/js/787.101a4060.chunk.js",
+    "static/media/logo.svg": "/thomas-the-book-search-engine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thomas-the-book-search-engine/index.html",
+    "main.073c9b0a.css.map": "/thomas-the-book-search-engine/static/css/main.073c9b0a.css.map",
+    "main.2385cc8f.js.map": "/thomas-the-book-search-engine/static/js/main.2385cc8f.js.map",
+    "787.101a4060.chunk.js.map": "/thomas-the-book-search-engine/static/js/787.101a4060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2385cc8f.js"
+  ]
+}
